@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+3e99871 - Pablo, 68 seconds ago : Merge branch 'main' of https://github.com/pgarcia86/gitactionex
+7a15cd3 - Pablo, 3 minutes ago : Test: Cambio en el commit_logger cron
+3825f9e - GitHub Actions, 7 minutes ago : Auto: Add latest commits log
